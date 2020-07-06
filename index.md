@@ -31,7 +31,7 @@ The Admin can manage users via this page
 ### Admin Dashboard - Manage Guests
 
 The Admin can manage guests via this page
-![Admin Dashboard - Manage Guests](https://raw.githubusercontent.com/paulonevrything/ReceptiConDemo/master/receptico.PNG)
+![Admin Dashboard - Manage Guests](https://raw.githubusercontent.com/paulonevrything/ReceptiConDemo/master/receptico.png)
 
 
 ### Support or Contact
