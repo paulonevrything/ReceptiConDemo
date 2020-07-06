@@ -1,37 +1,39 @@
-## Welcome to GitHub Pages
+## RecptiCon
 
-You can use the [editor on GitHub](https://github.com/paulonevrything/ReceptiConDemo/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I built a scalable hotel management application that optimizes the job of the hotel receptionist and the hotel manager.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The application has different modules for different roles which include Receptionist, Admin, Accounts among others.
 
-### Markdown
+The application is lightweight and easy to deploy to small scale guest houses and lodges. It runs on .NET Framework 3.5 upwards and can thus accomodate older desktop applications.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Login Page
 
-```markdown
-Syntax highlighted code block
+This is the login page. User's can select their names and input their passwords. The applicaiton takes them to tehir respective modules based on their roles.
+![alt text](https://github.com/paulonevrything/ReceptiCon/blob/datanomics/Screenshots/rece.PNG)
 
-# Header 1
-## Header 2
-### Header 3
+### Receptionist Page
 
-- Bulleted
-- List
+This is the receptionist's page where they can reserve a room for a guest and generate a receipt for the guest. It also shows the tax feature, which can be set by the administrator.
+![alt text](https://github.com/paulonevrything/ReceptiCon/blob/datanomics/Screenshots/recept.PNG)
+![alt text](https://github.com/paulonevrything/ReceptiCon/blob/datanomics/Screenshots/recepti.PNG)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+### Admin Dashboard
 
-[Link](url) and ![Image](src)
-```
+This is the admin page. The Admin can manage the activities of the hotel in one view, and also set some of the Receptionist functions.
+![alt text](https://github.com/paulonevrything/ReceptiCon/blob/datanomics/Screenshots/recep.PNG)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Admin Dashboard - Manage Users
 
-### Jekyll Themes
+The Admin can manage users via this page
+![alt text](https://github.com/paulonevrything/ReceptiCon/blob/datanomics/Screenshots/receptic.PNG)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulonevrything/ReceptiConDemo/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Admin Dashboard - Manage Guests
+
+The Admin can manage guests via this page
+![alt text](https://github.com/paulonevrything/ReceptiCon/blob/datanomics/Screenshots/receptico.PNG)
+
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You an get in touch with me for a piece of this application here [Email](mailto:pauoolabisi@gmail.com) or [WhatsApp](https://api.whatsapp.com/send?phone=2348161349905) and I’ll help you sort it out.
