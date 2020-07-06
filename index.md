@@ -9,7 +9,7 @@ The application is lightweight and easy to deploy to small scale guest houses an
 ### Login Page
 
 This is the login page. User's can select their names and input their passwords. The applicaiton takes them to tehir respective modules based on their roles.
-![Login Page](https://raw.githubusercontent.com/paulonevrything/ReceptiConDemo/master/rece.png)
+![Login Page](https://image.shutterstock.com/image-photo/victoria-island-lagos-nigeria-night-260nw-1164662203.jpg)
 
 ### Receptionist Page
 
